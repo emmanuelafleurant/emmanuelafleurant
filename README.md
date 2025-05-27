@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
  I am Emmanuela, a software engineering student at Florida Gulf Coast University. 
 
@@ -9,3 +9,13 @@
  
  Outside of engineering, I am interested ... 
  -->
+
+
+Let's connect!
+<br>
+[emmanuelafleurant](https://linkedin.com/in/emmanuelafleurant)
+
+
+
+
+
