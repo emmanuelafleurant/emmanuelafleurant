@@ -5,7 +5,7 @@
 
 
 
-I’m Emmanuela Fleurant, a software engineering student at [**FGCU**](https://www.fgcu.edu/). 
+I’m [**Emmanuela Fleurant**](https://www.linkedin.com/in/emmanuelafleurant), a software engineering student at [**FGCU**](https://www.fgcu.edu/). 
 
 
 I currently work as an IT Support & Systems Intern at [**John R. Wood Properties**](https://www.johnrwood.com/). Previously, I worked as a Product & Technology Intern at [**PBS**](https://www.pbs.org/).
